@@ -162,3 +162,6 @@ https://www.codeproject.com/Articles/1203649/MEAN-Stack-with-Angular-Auth-Auth-J
 ` http://localhost:3000/api/users `
 
 `UnauthorizedError: No authorization token was found` = Good thing!!
+
+## Commit this directory
+` git stage client/UserManagement `
