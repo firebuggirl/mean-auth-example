@@ -14,6 +14,7 @@
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
+    "express-jwt-authz": "^1.0.0",
     "mongojs": "^2.4.1"
   }
 }
